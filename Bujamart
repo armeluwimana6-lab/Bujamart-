@@ -1,0 +1,82 @@
+# Bujamart - Your Online Marketplace
+
+**Bujamart** is an online e-commerce platform designed to provide a seamless shopping experience to customers in Burundi. It offers a wide variety of products such as **clothes**, **footwear**, **home appliances**, **watches**, **cooking oil**, and more. Customers can shop easily and choose to pay via **Cash on Delivery** or **PayPal**.
+
+## Features
+
+- **Browse Products**: Browse through various categories like men's and women's clothes, footwear, home appliances, and more.
+- **Product Categories**:
+    - **Men's Clothes**
+    - **Women's Clothes**
+    - **Footwear**
+    - **Home Appliances**
+    - **Watches**
+    - **Lotion & Oils**
+    - **Cooking Oil**
+    - **Second-hand Clothes**
+    - **Promotions**
+- **Payment Methods**: Choose between **Cash on Delivery** or **PayPal**.
+- **Multi-language Support**: Available in **English** and **French** for a diverse user base.
+- **Order Management**: Admin dashboard to manage orders and products efficiently.
+- **Mobile-friendly**: Responsive design to work seamlessly across devices.
+- **User Accounts**: Customers can create accounts to track their orders and preferences.
+  
+## Technologies Used
+
+- **HTML5**: For structuring the website and content.
+- **CSS3**: For styling and making the site responsive.
+- **JavaScript**: To handle dynamic interactions (e.g., add to cart, checkout, etc.).
+- **Firebase**: For user authentication, managing customer data, and order storage.
+- **GitHub Pages**: Hosting the website for free.
+
+## Live Demo
+
+You can view the live website here:
+[Live Demo of Bujamart](https://your-username.github.io/bujamart/)
+
+## How to Run the Website Locally
+
+To run this website on your local machine, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/bujamart.git
+    ```
+
+2. **Navigate to the project folder**:
+    ```bash
+    cd bujamart
+    ```
+
+3. **Open `index.html`** in your browser:
+    ```bash
+    open index.html
+    ```
+
+This will open the website in your local browser.
+
+## How to Contribute
+
+We welcome contributions to the project! You can fork this repository, make your changes, and create a pull request.
+
+### Steps to contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -m "Add your feature"`).
+5. Push to the branch (`git push origin feature/your-feature`).
+6. Open a pull request and describe your changes.
+
+## License
+
+This project is open-source and available under the **MIT License**.
+
+## Contact
+
+For questions, feedback, or support, feel free to reach out via **WhatsApp** at:  
+[Click to contact via WhatsApp](https://wa.me/25776672807)
+
+## Acknowledgements
+
+- **GitHub Pages** for hosting the website.
+- **Firebase** for user authentication and database management.
